@@ -1,0 +1,187 @@
+[
+    {
+      "id": 1,
+      "userId": {
+          "id": "1",
+          "first_name": "Joan",
+          "last_name": "Louji",
+          "email": "sjlouji10@gmail.com",
+          "profileImage": "https://i.pravatar.cc/150?img=2",
+          "tagline": "Full stack Developer"
+      },
+      "title": "Architecture of Full stack Dev.",
+      "post_descripltion": "A full stack developer is a web developer or engineer who works with both the front and back ends of a website or application—meaning they can tackle projects that involve databases, building user-facing websites, or even work with clients during the planning phase of projects.",
+      "image_post": "true",
+      "video_post": "false",
+      "media":[
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png",
+            "https://www.hackerearth.com/blog/wp-content/uploads/2017/02/Blog-Cover-image-Fullstack-Highres.jpg",
+            "https://blogeduonix-2f3a.kxcdn.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg",
+            "https://i.pinimg.com/originals/b2/8e/e1/b28ee1752e9fbff9d8c0009eb0267322.jpg",
+            "https://blogeduonix-2f3a.kxcdn.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg",
+            "https://blogeduonix-2f3a.kxcdn.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg",
+            "https://blogeduonix-2f3a.kxcdn.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg",
+            "https://blogeduonix-2f3a.kxcdn.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg",
+            "https://blogeduonix-2f3a.kxcdn.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg",
+            "https://blogeduonix-2f3a.kxcdn.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg",
+            "https://blogeduonix-2f3a.kxcdn.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg",
+            
+      ],
+      "likeCount":"18",
+      "commentCount":"9",
+      "published_at":"2020-06-22T04:30:59Z"
+    },
+    {
+        "id": 2,
+        "userId": {
+            "id": "2",
+            "first_name": "Naveen",
+            "last_name": "Kumar",
+            "email": "naveen@gmail.com",
+            "profileImage": "https://i.pravatar.cc/150?img=63",
+            "tagline": "Cloud Architect"
+        },
+        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+        "post_descripltion": "Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user. The term is generally used to describe data centers available to many users over the Internet.",
+        "image_post": "true",
+        "video_post": "false",
+        "media":[
+              "https://cdn.educba.com/academy/wp-content/uploads/2019/06/What-Is-Cloud-Computing.jpg",
+              "https://networkencyclopedia.com/wp-content/uploads/2019/09/cloud-computing.png",
+              "https://i.ytimg.com/vi/dH0yz-Osy54/maxresdefault.jpg",
+              "https://www.visiontechme.com/images/Cloud-Computing.png"
+
+        ],
+        "likeCount":"100",
+        "commentCount":"30",
+        "published_at":"2020-06-10T04:30:59Z"
+      },
+      {
+        "id": 3,
+        "userId": {
+            "id": "3",
+            "first_name": "Kirsty",
+            "last_name": "Bonner",
+            "email": "kirsty@gmail.com",
+            "profileImage": "https://i.pravatar.cc/150?img=45",
+            "tagline": "Blockchain Engineer at Idealogic"
+        },
+        "title": "Intro to BlockChain",
+        "post_descripltion": "If this technology is so complex, why call it “blockchain?” At its most basic level, blockchain is literally just a chain of blocks, but not in the traditional sense of those words. When we say the words “block” and “chain” in this context, we are actually talking about digital information (the “block”) stored in a public database (the “chain”).“Blocks” on the blockchain are made up of digital pieces of information. Specifically, they have three parts: Blocks store information about transactions like the date, time, and dollar amount of your most recent purchase from Amazon. (NOTE: This Amazon example is for illustrative purchases; Amazon retail does not work on a blockchain principle as of this writing) Blocks store information about who is participating in transactions. A block for your splurge purchase from Amazon would record your name along with Amazon.com, Inc. (AMZN). Instead of using your actual name, your purchase is recorded without any identifying information using a unique “digital signature,” sort of like a username. Blocks store information that distinguishes them from other blocks. Much like you and I have names to distinguish us from one another, each block stores a unique code called a “hash” that allows us to tell it apart from every other block. Hashes are cryptographic codes created by special algorithms. Let’s say you made your splurge purchase on Amazon, but while it’s in transit, you decide you just can’t resist and need a second one. Even though the details of your new transaction would look nearly identical to your earlier purchase, we can still tell the blocks apart because of their unique codes. While the block in the example above is being used to store a single purchase from Amazon, the reality is a little different. A single block on the Bitcoin blockchain can actually store up to 1 MB of data. Depending on the size of the transactions, that means a single block can house a few thousand transactions under one roof.      If this technology is so complex, why call it “blockchain?” At its most basic level, blockchain is literally just a chain of blocks, but not in the traditional sense of those words. When we say the words “block” and “chain” in this context, we are actually talking about digital information (the “block”) stored in a public database (the “chain”).“Blocks” on the blockchain are made up of digital pieces of information. Specifically, they have three parts: Blocks store information about transactions like the date, time, and dollar amount of your most recent purchase from Amazon. (NOTE: This Amazon example is for illustrative purchases; Amazon retail does not work on a blockchain principle as of this writing) Blocks store information about who is participating in transactions. A block for your splurge purchase from Amazon would record your name along with Amazon.com, Inc. (AMZN). Instead of using your actual name, your purchase is recorded without any identifying information using a unique “digital signature,” sort of like a username. Blocks store information that distinguishes them from other blocks. Much like you and I have names to distinguish us from one another, each block stores a unique code called a “hash” that allows us to tell it apart from every other block. Hashes are cryptographic codes created by special algorithms. Let’s say you made your splurge purchase on Amazon, but while it’s in transit, you decide you just can’t resist and need a second one. Even though the details of your new transaction would look nearly identical to your earlier purchase, we can still tell the blocks apart because of their unique codes. While the block in the example above is being used to store a single purchase from Amazon, the reality is a little different. A single block on the Bitcoin blockchain can actually store up to 1 MB of data. Depending on the size of the transactions, that means a single block can house a few thousand transactions under one roof.     If this technology is so complex, why call it “blockchain?” At its most basic level, blockchain is literally just a chain of blocks, but not in the traditional sense of those words. When we say the words “block” and “chain” in this context, we are actually talking about digital information (the “block”) stored in a public database (the “chain”).“Blocks” on the blockchain are made up of digital pieces of information. Specifically, they have three parts: Blocks store information about transactions like the date, time, and dollar amount of your most recent purchase from Amazon. (NOTE: This Amazon example is for illustrative purchases; Amazon retail does not work on a blockchain principle as of this writing) Blocks store information about who is participating in transactions. A block for your splurge purchase from Amazon would record your name along with Amazon.com, Inc. (AMZN). Instead of using your actual name, your purchase is recorded without any identifying information using a unique “digital signature,” sort of like a username. Blocks store information that distinguishes them from other blocks. Much like you and I have names to distinguish us from one another, each block stores a unique code called a “hash” that allows us to tell it apart from every other block. Hashes are cryptographic codes created by special algorithms. Let’s say you made your splurge purchase on Amazon, but while it’s in transit, you decide you just can’t resist and need a second one. Even though the details of your new transaction would look nearly identical to your earlier purchase, we can still tell the blocks apart because of their unique codes. While the block in the example above is being used to store a single purchase from Amazon, the reality is a little different. A single block on the Bitcoin blockchain can actually store up to 1 MB of data. Depending on the size of the transactions, that means a single block can house a few thousand transactions under one roof.   If this technology is so complex, why call it “blockchain?” At its most basic level, blockchain is literally just a chain of blocks, but not in the traditional sense of those words. When we say the words “block” and “chain” in this context, we are actually talking about digital information (the “block”) stored in a public database (the “chain”).“Blocks” on the blockchain are made up of digital pieces of information. Specifically, they have three parts: Blocks store information about transactions like the date, time, and dollar amount of your most recent purchase from Amazon. (NOTE: This Amazon example is for illustrative purchases; Amazon retail does not work on a blockchain principle as of this writing) Blocks store information about who is participating in transactions. A block for your splurge purchase from Amazon would record your name along with Amazon.com, Inc. (AMZN). Instead of using your actual name, your purchase is recorded without any identifying information using a unique “digital signature,” sort of like a username. Blocks store information that distinguishes them from other blocks. Much like you and I have names to distinguish us from one another, each block stores a unique code called a “hash” that allows us to tell it apart from every other block. Hashes are cryptographic codes created by special algorithms. Let’s say you made your splurge purchase on Amazon, but while it’s in transit, you decide you just can’t resist and need a second one. Even though the details of your new transaction would look nearly identical to your earlier purchase, we can still tell the blocks apart because of their unique codes. While the block in the example above is being used to store a single purchase from Amazon, the reality is a little different. A single block on the Bitcoin blockchain can actually store up to 1 MB of data. Depending on the size of the transactions, that means a single block can house a few thousand transactions under one roof.",
+        "image_post": "false",
+        "video_post": "false",
+        "media":[],
+        "likeCount":"1493",
+        "commentCount":"203",
+        "published_at":"2020-04-10T04:30:59Z"
+      },
+      {
+        "id": 1,
+        "userId": {
+            "id": "1",
+            "first_name": "Joan",
+            "last_name": "Louji",
+            "email": "sjlouji10@gmail.com",
+            "profileImage": "https://i.pravatar.cc/150?img=2",
+            "tagline": "Full stack Developer"
+        },
+        "title": "Architecture of Full stack Dev.",
+        "post_descripltion": "A full stack developer is a web developer or engineer who works with both the front and back ends of a website or application—meaning they can tackle projects that involve databases, building user-facing websites, or even work with clients during the planning phase of projects.",
+        "image_post": "false",
+        "video_post": "true",
+        "video_url":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+        "media":[
+
+              
+        ],
+        "likeCount":"18",
+        "commentCount":"9",
+        "published_at":"2020-06-22T04:30:59Z"
+      },
+      {
+        "id": 4,
+        "userId": {
+            "id": "4",
+            "first_name": "Pascal",
+            "last_name": "Bornet",
+            "email": "pascal@gmail.com",
+            "profileImage": "https://i.pravatar.cc/150?img=57",
+            "tagline": "DevOps"
+        },
+        "title": "DevOps culture",
+        "post_descripltion": "A full stack developer is a web developer or engineer who works with both the front and back ends of a website or application—meaning they can tackle projects that involve databases, building user-facing websites, or even work with clients during the planning phase of projects.",
+        "image_post": "true",
+        "video_post": "false",
+        "media":[
+              "https://cdn.mindmajix.com/blog/images/difference-between-agile-and-devops-180420.png"
+        ],
+        "likeCount":"12",
+        "commentCount":"1",
+        "published_at":"2020-04-22T04:30:59Z"
+      },
+      {
+        "id": 2,
+        "userId": {
+            "id": "2",
+            "first_name": "Naveen",
+            "last_name": "Kumar",
+            "email": "naveen@gmail.com",
+            "profileImage": "https://i.pravatar.cc/150?img=63",
+            "tagline": "Cloud Architect"
+        },
+        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+        "post_descripltion": "",
+        "image_post": "true",
+        "video_post": "false",
+        "media":[
+              "https://cdn.educba.com/academy/wp-content/uploads/2019/06/What-Is-Cloud-Computing.jpg",
+              "https://networkencyclopedia.com/wp-content/uploads/2019/09/cloud-computing.png",
+        ],
+        "likeCount":"100",
+        "commentCount":"30",
+        "published_at":"2020-06-10T04:30:59Z"
+      },
+      {
+        "id": 10,
+        "userId": {
+            "id": "93",
+            "first_name": "Sarah",
+            "last_name": "Sitan",
+            "email": "sarah@gmail.com",
+            "profileImage": "https://i.pravatar.cc/150?img=45",
+            "tagline": "Find Me Technologies"
+        },
+        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+        "post_descripltion": "Hello world",
+        "image_post": "true",
+        "video_post": "false",
+        "media":[
+              "https://cdn.educba.com/academy/wp-content/uploads/2019/06/What-Is-Cloud-Computing.jpg",
+              "https://networkencyclopedia.com/wp-content/uploads/2019/09/cloud-computing.png",
+              "https://networkencyclopedia.com/wp-content/uploads/2019/09/cloud-computing.png"
+        ],
+        "likeCount":"100",
+        "commentCount":"30",
+        "published_at":"2020-06-10T04:30:59Z"
+      },
+      {
+        "id": 10,
+        "userId": {
+            "id": "93",
+            "first_name": "Sarah",
+            "last_name": "Sitan",
+            "email": "sarah@gmail.com",
+            "profileImage": "https://i.pravatar.cc/150?img=45",
+            "tagline": "Find Me Technologies"
+        },
+        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+        "post_descripltion": "Hello world",
+        "image_post": "false",
+        "video_post": "true",
+        "video_url":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+        "media":[],
+        "likeCount":"100",
+        "commentCount":"30",
+        "published_at":"2020-06-10T04:30:59Z"
+      }
+]

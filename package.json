@@ -1,0 +1,51 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@paraboly/react-native-report-modal": "0.0.12",
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-navigation/material-bottom-tabs": "^5.2.13",
+    "@react-navigation/native": "^5.7.0",
+    "expo": "~38.0.8",
+    "expo-av": "^8.2.1",
+    "expo-font": "~8.2.1",
+    "expo-status-bar": "^1.0.2",
+    "moment": "^2.27.0",
+    "native-base": "^2.13.12",
+    "react": "~16.11.0",
+    "react-dom": "~16.11.0",
+    "react-facebook-player": "^0.1.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz",
+    "react-native-af-video-player": "^0.2.1",
+    "react-native-dark-mode": "^0.2.2",
+    "react-native-elements": "^2.0.4",
+    "react-native-fb-collage": "^1.0.7",
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-image-view": "^2.1.9",
+    "react-native-image-viewing": "^0.2.0",
+    "react-native-image-zoom-viewer": "^3.0.1",
+    "react-native-inviewport": "^1.1.0",
+    "react-native-material-menu": "^1.1.3",
+    "react-native-paper": "^3.10.1",
+    "react-native-photo-grid": "0.0.2",
+    "react-native-popup-menu": "^0.15.9",
+    "react-native-reanimated": "^1.9.0",
+    "react-native-safe-area-context": "^3.0.7",
+    "react-native-screens": "^2.9.0",
+    "react-native-thumbnail-video": "^0.1.2",
+    "react-native-vector-icons": "^7.0.0",
+    "react-native-video": "^4.4.5",
+    "react-native-web": "~0.11.7"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "babel-preset-expo": "~8.1.0"
+  },
+  "private": true
+}
